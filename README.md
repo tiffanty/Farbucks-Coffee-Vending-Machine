@@ -1,13 +1,10 @@
- Features:
+Features:
 
 Users can select from three types of beverages:
 
-    - Regular Coffee ($1.10)  customizable with sugar & milk.
-    
-    - Espresso ($2.00) customizable with sugar & milk.
-    
-    - Cappuccino ($3.15) customizable with sugar only (no milk option).
-
+- Regular Coffee ($1.10) - customizable with sugar & milk
+- Espresso ($2.00) - customizable with sugar & milk
+- Cappucino ($3.15) - customizable with sugar only (no milk option).
 
 Condiment customization:
 
@@ -27,13 +24,12 @@ Error Handling:
 
 Price Calculation:
 
-
-   Base price + $0.10 per sugar unit + $0.15 per milk unit (if applicable).
+- Base price + $0.10 per sugar unit + $0.15 per milk unit (if applicable).
 
 
 Looping Mechanism:
 
-   Allows multiple customers to order without restarting the program.
+- Allows multiple customers to order without restarting the program.
 
 
 How It Works:
