@@ -18,11 +18,11 @@ Condiment customization:
  
 Error Handling:
 
-   Prevents invalid inputs for beverage selection.
+   - Prevents invalid inputs for beverage selection.
    
-   Ensures users enter valid sugar and milk amounts.
+   -  Ensures users enter valid sugar and milk amounts.
    
-   Prevents excessive condiment use.
+   -  Prevents excessive condiment use.
 
 
 Price Calculation:
