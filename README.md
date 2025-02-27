@@ -9,17 +9,21 @@ Users can select from three types of beverages:
 Condiment customization:
 
    Sugar (0-3 units) for all drinks.
+   
    Milk (1-3 units) for Regular Coffee and Espresso.
 
  
 Error Handling:
 
    Prevents invalid inputs for beverage selection.
+   
    Ensures users enter valid sugar and milk amounts.
+   
    Prevents excessive condiment use.
 
 
 Price Calculation:
+
 
    Base price + $0.10 per sugar unit + $0.15 per milk unit (if applicable).
 
